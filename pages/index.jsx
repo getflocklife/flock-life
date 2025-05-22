@@ -1,0 +1,1 @@
+export default function Landing() { return <div>Flock Life Landing Page</div>; }
